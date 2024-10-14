@@ -68,10 +68,6 @@
             "state": "InstalledAndPermanent"
           },
           {
-            "id": "7acd66c9-09c8-47ed-b526-bf9341acfecd",
-            "state": "InstalledAndPermanent"
-          },
-          {
             "id": "d595d857-01be-4088-a123-fcd89e9349bb",
             "state": "InstalledAndPermanent"
           },
@@ -141,7 +137,7 @@
           },
           {
             "id": "36b1586d-b1da-45d2-9b32-899c3757b6f8",
-            "state": "InstalledAndPermanent"
+            "state": "PreConsented"
           }
         ]
       },
@@ -164,10 +160,6 @@
           },
           {
             "id": "3dd9a0b7-770a-4eb2-a7e8-8e800f17ccd3",
-            "state": "InstalledAndPermanent"
-          },
-          {
-            "id": "7acd66c9-09c8-47ed-b526-bf9341acfecd",
             "state": "InstalledAndPermanent"
           },
           {
@@ -196,7 +188,7 @@
           },
           {
             "id": "36b1586d-b1da-45d2-9b32-899c3757b6f8",
-            "state": "InstalledAndPermanent"
+            "state": "PreConsented"
           }
         ]
       }
