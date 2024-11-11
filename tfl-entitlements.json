@@ -146,6 +146,10 @@
           {
             "id": "92b6a924-2f3d-48ab-9f7c-76cb425970ff",
             "state": "PreConsented"
+          },
+          {
+            "id": "c0544be7-361e-482e-9bf2-9566b13981c8",
+            "state": "Installed"
           }
         ]
       },
@@ -205,6 +209,10 @@
           {
             "id": "92b6a924-2f3d-48ab-9f7c-76cb425970ff",
             "state": "PreConsented"
+          },
+          {
+            "id": "c0544be7-361e-482e-9bf2-9566b13981c8",
+            "state": "Installed"
           }
         ]
       }
